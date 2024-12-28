@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🧠 I’m currently a PhD Student in the Computational Neurology Lab at the Ruhr University Bochum/University of Bonn under the supervision of Prof. Xenia Kobeleva. You can find code for my PhD publications [here](https://github.com/computational-neurology)
+- 🧠 I’m currently a PhD Student in the Computational Neurology Lab at the Ruhr University Bochum/University of Bonn under the supervision of Prof. Xenia Kobeleva. You can find code for my PhD publications [here](https://github.com/computational-neurology).
 - 🥅 My current project involves creating realistic models of whole-brain functional activity (e.g., fMRI) to personalize trans-cranial magnetic stimulation (TMS) treatment for patients with Alzheimer's Disease. 
 - 🩺 I previously obtained my M.D. Degree and License of Specialization in Radiology at Università Vita-Salute San Raffaele in Milan. My thesis was on machine learning algorithm to differentiate true progression from pseudoprogression in patients with glioblastoma treated with chemo-radiotherapy
 
